@@ -4,7 +4,7 @@
 Dieses Python-Tool dient der Berechnung und Visualisierung der Bestrahlungsstärke mehrerer LEDs auf einer Fläche in definiertem Abstand.
 
 ---
-```bash
+
 ## Projektstruktur
 LED-Grid-Simulation/
 │
@@ -17,7 +17,7 @@ LED-Grid-Simulation/
 └── LED-Grid-Simulation.exe # Optionale Windows-Executable
 
 **Hinweis:** Temporäre Build-Ordner (`build/`, `dist/`, `__pycache__/`) sowie die Datei `main.spec` sind technische Artefakte und nicht Bestandteil der wissenschaftlich relevanten Projektstruktur.
-```
+
 ---
 
 ## Dateien & Funktionen
